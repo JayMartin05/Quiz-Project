@@ -12,3 +12,5 @@ fucntional Requirments
 7. Store correct answer
 8. Answer validation and error checking
 9. Display total score once quiz has been completed
+
+First thing in terminall type 'npm install node'
